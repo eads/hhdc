@@ -1,0 +1,18 @@
+h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+.slide-titlecard h1 {
+  font-size: 85px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  text-shadow: 0 0 3px rgba(0,0,0,0.8);
+}
+
+.text-bottom .content-inner {
+  transform: none;
+  top: 80%;
+}
+
